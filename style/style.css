@@ -454,7 +454,7 @@ footer .icons img{
         margin:0 auto;
         height: 100%;
         width: 100%;
-        border: 1px solid red;
+        
         display: flex;
         flex-direction: column;
         font-size: 18px;
