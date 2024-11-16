@@ -134,6 +134,9 @@ nav .sign-up-btn{
     background-color:var(--Cyan);
     color:white;
 }
+nav .hum{
+    display: none;
+}
 
 
 .main{
