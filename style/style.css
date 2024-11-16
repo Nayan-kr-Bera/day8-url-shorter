@@ -214,7 +214,7 @@ nav .hum{
     position: absolute;
     top: 40%;
     left: 50%;
-    border: 2px solid violet;
+    /* border: 2px solid violet; */
     transform: translate(-50%,0%);
     text-align: center;
     align-content: center;
