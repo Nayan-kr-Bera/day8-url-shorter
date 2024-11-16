@@ -494,7 +494,7 @@ footer .icons img{
 
     nav .nav-menu
     {   
-        border:1px solid red;
+        /* border:1px solid red; */
         width: 60%;
         flex-direction: column;
         
@@ -677,9 +677,9 @@ footer .icons img{
     {   height: 6%;
         width: 85%;
         position: absolute;
-        top: 35%;
+        top: 34.2%;
         left: 50%;
-        border: 2px solid violet;
+        /* border: 2px solid violet; */
         transform: translate(-50%,-50%);
         text-align: center;
         align-content: center;
