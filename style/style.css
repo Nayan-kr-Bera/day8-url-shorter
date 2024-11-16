@@ -474,6 +474,7 @@ footer .icons img{
     }
     nav .hum{
         width: 10%;
+        display: block;
      
     }
     nav .logo
